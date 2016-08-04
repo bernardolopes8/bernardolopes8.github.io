@@ -17,11 +17,18 @@ $RECYCLE.BIN/
 
 
 #############
-## Old backups
+## Project files
 #############
 
+# Useful/old code snippets
 code_snippets/
+
+# Old images and PSDs
 old_images/
 PSDs/
+
+# IPB redirection
 ipb/
+
+# Netbeans project
 /nbproject/
