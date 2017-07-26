@@ -1,0 +1,31 @@
+KINGDOM OF SHADOWS DEVELOPED BY
+
+Bernardo Lopes - http://bernardolopes8.github.io
+and
+Tiago Padrão - http://www.linkedin.com/in/tiago-padrão-4786975b
+
+WITH THE HELP OF THE FOLLOWING SOFTWARE
+
+Unreal Engine 4 (Epic Games) - http://www.unrealengine.com
+Audacity - http://http://www.audacityteam.org
+Blender - http://www.blender.org/
+Autodesk Maya 2017 Community Edition - http://www.autodesk.com/products/maya/overview
+GIMP - http://www.gimp.org/
+
+AND THE FOLLOWING RESOURCES
+
+Characters, Enemies, Effects and Static Meshes by Epic Games - http://www.unrealengine.com/marketplace/profile/Epic%20Games
+Animations by Mixamo - http://www.mixamo.com/
+Music by Eric Matyas (http://soundimage.org/) and Ross Budgen (http://www.youtube.com/channel/UCQKGLOK2FqmVgVwYferltKQ)
+Sound Effects by Eric Matyas and from http://freesound.org/
+Wyvern by PROTOFACTOR INC (http://www.unrealengine.com/marketplace/wyvern)
+Circle Gauge Master Material by Tetsuya Wagatsuma (http://www.unrealengine.com/marketplace/circle-gauge-master-material)
+Shield by NassacGames (http://www.assetstore.unity3d.com/en/#!/content/3202)
+
+_______
+
+This game was developed as part of a final project for the Informatics Engineering course on Polytechnic Institute of Bragança, Portugal.
+
+SPECIAL THANKS TO PROF. RUI PEDRO LOPES FOR ALL THE HELP AND GUIDANCE DURING THE DEVELOPMENT OF THIS GAME
+
+JULY 2017
