@@ -15,7 +15,6 @@ $RECYCLE.BIN/
 # Mac crap
 .DS_Store
 
-
 #############
 ## Project files
 #############
@@ -30,5 +29,8 @@ PSDs/
 # IPB redirection
 ipb/
 
-# Netbeans project
-/nbproject/
+## Sass
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
