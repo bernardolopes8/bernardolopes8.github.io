@@ -22,10 +22,6 @@ a {
   a:hover {
     color: #16b7b7; }
 
-header h1 {
-  font-family: 'Anton', 'Impact', 'Charcoal', sans-serif;
-  letter-spacing: 5px; }
-
 h1,
 h2,
 h3,
@@ -206,9 +202,13 @@ header.masthead {
     margin-top: 30px;
     margin-bottom: 30px; }
   header.masthead h1 {
+    font-family: 'Anton', 'Impact', 'Charcoal', sans-serif;
+    letter-spacing: 5px;
     font-size: 3rem; }
   header.masthead p {
     font-weight: 300; }
+  header.masthead a {
+    color: inherit; }
   @media (min-width: 768px) {
     header.masthead p {
       font-size: 1.15rem; } }

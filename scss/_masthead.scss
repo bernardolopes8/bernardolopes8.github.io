@@ -2,7 +2,7 @@
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-color: $secondary;
+  background-color: $primary;
   background-position: center center;
   @include background-cover;
   hr {
@@ -10,10 +10,15 @@ header.masthead {
     margin-bottom: 30px;
   }
   h1 {
+    font-family: 'Anton', 'Impact', 'Charcoal', sans-serif;
+    letter-spacing: 5px;
     font-size: 3rem;
   }
   p {
     font-weight: 300;
+  }
+  a {
+    color: inherit;
   }
   @media (min-width: 768px) {
     p {
