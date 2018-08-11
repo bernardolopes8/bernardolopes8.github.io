@@ -166,3 +166,11 @@ a .list-item {
 a:hover {
   text-decoration: none;
 }
+
+a .contact-wrapper {
+  color: $white;
+}
+
+a .contact-wrapper:hover {
+  color: $primary;
+}
