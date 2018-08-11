@@ -311,4 +311,7 @@ header.masthead {
 .table {
   width: inherit; }
 
+.navbar-light .navbar-toggler {
+  border-color: transparent; }
+
 /*# sourceMappingURL=creative.css.map */
