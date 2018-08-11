@@ -6,12 +6,12 @@ html {
 }
 
 body {
-  @include serif-font;
+  @include sans-serif-font;
 }
 
 hr {
-  max-width: 50px;
-  border-width: 3px;
+  max-width: 80px;
+  border-width: 1px;
   border-color: $primary;
 }
 

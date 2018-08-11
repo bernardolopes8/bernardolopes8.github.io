@@ -4,11 +4,11 @@ html {
   height: 100%; }
 
 body {
-  font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif; }
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
 
 hr {
-  max-width: 50px;
-  border-width: 3px;
+  max-width: 80px;
+  border-width: 1px;
   border-color: #16B7B7; }
 
 hr.light {
