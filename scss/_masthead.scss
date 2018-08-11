@@ -17,6 +17,18 @@ header.masthead {
   p {
     font-weight: 300;
   }
+  .typed {
+    font-size: 1.5rem;
+    color: fade-out($white, .3);
+  }
+  .typed-cursor {
+    font-size: 1.5rem;
+    color: fade-out($white, .3);
+  }
+  .typed-strings p {
+    display: inline;
+    padding: 0px 3px;
+  }
   a {
     color: inherit;
   }
