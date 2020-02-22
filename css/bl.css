@@ -7,7 +7,9 @@ body {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
 
 hr {
-  border-width: 1px; }
+  border-width: 1px;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem; }
 
 hr.light {
   border-color: #fff; }
@@ -38,7 +40,11 @@ h6 {
   color: rgba(255, 255, 255, 0.7); }
 
 section {
-  padding: 8rem 0; }
+  padding: 1rem 0; }
+
+.section-about {
+  padding-top: 8rem;
+  padding-bottom: 7rem; }
 
 .section-heading {
   margin-top: 0; }
