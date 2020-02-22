@@ -10,9 +10,7 @@ body {
 }
 
 hr {
-  max-width: 80px;
   border-width: 1px;
-  border-color: $primary;
 }
 
 hr.light {
@@ -76,6 +74,10 @@ img::selection {
 img::-moz-selection {
   color: $white;
   background: transparent;
+}
+
+.table {
+  width: inherit;
 }
 
 .list-item {
